@@ -1,0 +1,507 @@
+﻿# LOPSA Locals Chapter Guide
+
+## Introduction
+
+Thank you for your interest in starting a LOPSA Local chapter!
+
+Our organization thrives because of people like you. The international
+association known as LOPSA consists of hundreds of individuals, and
+there is no better way to carry out our goal of improving the
+profession of system administration than by providing a community of
+people who are interested in the same thing. On behalf of the Board of
+Directors and the membership of LOPSA, I thank you for helping us to
+build this community.
+
+In this document, you will find a guide to starting and running a
+chapter, written and contributed to by the people who have done
+exactly this before. The information contained herein will help you
+get your feet on the ground, find like-minded people, band together
+with them, and get meetings running in your area. Before you know it,
+you’ll be in the midst of a new local community of system
+administrators!
+
+LOPSA is a volunteer organization run by IT administrators, and just
+like with system administration, as we learn, we improve things, and
+this chapter guide is no different. As you learn how to build and run
+your own chapter, you may have suggestions for changes or additions to
+this booklet. We want to hear them.
+
+During your journey, if you have suggestions, comments, or questions,
+please email them to locals@lopsa.org and we’ll work hard to give you
+the resources that you need to be successful in starting your
+chapter. LOPSA is dedicated to making the Locals program a success,
+and that means making sure that you’re successful.
+
+## What is LOPSA?
+
+LOPSA is the League of Professional System
+Administrators. We began as a Special Interest Group (SIG) of USENIX,
+the Advanced Computing Systems Association. Near the end of 2007, we
+formally separated into our own independent organization, although we
+still enjoy an excellent working relationship with USENIX.
+
+LOPSA is dedicated to the furtherance of all aspects of system
+administration as a profession, and all of our programs are dedicated
+to this cause. Our efforts are designed to encourage system
+administrators to improve themselves and to increase their
+professionalism, and we strive to advocate for administrators every
+chance we get.
+
+We are registered with the United States Internal Revenue Service as a
+501c(3) non-profit organization. Your membership fees go toward
+supporting the various projects and partnerships that LOPSA
+maintains. Activities such as the Locals program and the Mentorship
+project materially improve the state of system administration for
+everyone, not just members of LOPSA.  By being a part of our
+organization, you’re actively helping us do this, and we thank you for
+it.
+
+As mentioned above, LOPSA is run and organized by a volunteer army of
+IT administrators from around the world. At last count, we had members
+in 43 countries from around the world. We are actively recruiting new
+members across the globe, and we’re working to start local chapters in
+many other countries, as well.
+
+## The LOPSA Locals Program
+
+Although our modern digital lifestyle allows
+us to have a virtual presence anywhere in the world, people are still
+very attracted to the idea of taking part in a community in their
+area. Having a local resource or support network is invaluable to
+being a better administrator.
+
+To help facilitate building a real network of system administrators,
+LOPSA has developed the “Locals” program that encourages and promotes
+the formation of local LOPSA chapters. These chapters hold regular
+meetings and become involved in their community, often working with
+local businesses and charitable causes.
+
+This local presence allows LOPSA to have an outreach program that
+provides supportive resources to administrators, and at the same time
+increase the number of LOPSA members who get something out of their
+membership.
+
+## Kinds of LOPSA Local chapters
+
+There are three types of LOPSA chapters -- – regular, student, and
+affiliate. Each carries our mission of professionalism into the
+community, but there are differences in the structure and composition
+of the groups.
+
+* Regular Chapter
+
+A regular chapter is a local presence, and is an officially sanctioned
+part of LOPSA. Regular chapters carry on the goals and programs of
+LOPSA on a local level. Because Regular Chapters are a part of LOPSA,
+they are bound by the Regular Chapter Rules. Its paid members are
+LOPSA members, and its elected officers are covered by LOPSA’s
+insurance. A Regular Chapter must have at least six paid members,
+although a new chapter will be granted provisional status for its
+first year with three paid members.
+
+* Student Chapter
+
+A student chapter is a local presence at an educational institution
+and part of LOPSA. Student Chapters carry on the goals and programs of
+LOPSA at a local level with an emphasis on education. Because Student
+Chapters are part of LOPSA, they are bound by the Student Chapter
+Rules. Its paid members are LOPSA Student members, and its elected
+officers and Student Chapter Advisor(s) are covered by LOPSA's
+insurance. In addition, Student Chapters must follow the institution's
+rules for student organizations. A Chapter must have at least six paid
+members and one paid standard member as a Student Chapter
+Advisor. Provisional status can be granted with three paid student
+members (plus the Advisor) for the first year.
+
+* Affiliate Chapter
+
+LOPSA affiliates are independent local groups that share similar goals
+with the LOPSA organization and in some way serve the system
+administration community and our members in their area. Affiliate
+chapters are NOT part of LOPSA and will receive support from LOPSA
+primarily to assist them in providing services to our members and the
+community.
+
+You should have the type of chapter you want to start in mind, but
+when in doubt, we encourage you to start a regular chapter. Obtaining
+three paid LOPSA members is easier than it sounds. If you don’t know
+any other local members, contact locals@lopsa.org and we will work to
+get you in touch with other LOPSA members in your area.
+
+## Starting a Chapter
+
+Deciding to start a new LOPSA chapter isn’t something that
+should be taken lightly, but it isn’t as daunting as it might seem. A
+lot of system administrators feel like they couldn’t possibly lead a
+group of other admins, but this isn’t something to worry
+about. Instead of looking at yourself as a leader of admins, try to
+see your goal as being a coordinator or organize, because really, a
+LOPSA chapter organizer’s job is to...well...organize.
+
+The most important part of being a chapter organizer is finding
+speakers, finding attendees, and finding a place to meet. These kinds
+of organizational activities are well within your skillset, and if you
+have problems with anything, we’re here to help.
+
+## Evaluating a potential city
+
+Chances are good that you’re interested in starting a chapter in the
+town that you live in. There probably won’t be a problem with
+that. After all, the most important aspect of getting a chapter going
+isn’t how many potential administrators there are to attend meetings,
+but how many potential organizers there are who want to put in the
+work to make the chapter a reality.
+
+Generally speaking, we’ve found that it isn’t necessarily the biggest
+cities that have active LOPSA chapters, but the ones with organizers
+who are devoted to making the chapter work, and who have a significant
+population within a half hour drive of the meeting location.
+
+If you live in or near a population center where 100,000 people live
+within a half hour of travel distance, then you definitely have the
+makings of a potential LOPSA chapter. Is there a college or university
+with a well-established IT program? That might be the basis of a great
+student chapter!
+
+It’s important to be creative and see the potential in the world
+around you. Figuring out how to make a chapter a reality is just the
+first step on a journey that long, but very rewarding.
+
+## Weighing the time requirements
+
+Of the requirements listed above, the
+dedicated organizer is the hardest one to find. There are major cities
+in North America that would be natural fits for LOPSA chapters, but at
+this time, many don’t have one, only because no one has stepped
+forward to offer to do the work.
+
+The reason for this may be that people perceive the amount of time
+required as being much higher than it really is.
+
+It’s completely possible to have regularly scheduled meetings by
+planning for an hour a week (and less, if you have other people
+helping you). Everyone can organize a LOPSA chapter, so if this is
+something you want to do, then you shouldn’t be afraid of the time
+commitment, because it’s not as bad as you think.
+
+## Obtaining co-organizers
+
+As mentioned before, even the modest time requirements go down when
+the load is spread across several people. Getting volunteers to work
+on a small part of the process is usually easier than convincing
+someone to do the whole thing themselves.
+
+When discussing the chapter with potential attendees, always have a
+list of small responsibilities that you can offer to interested people
+--  a lot of people will take you up on the offer to help in some
+small way that will make your life easier. Always remember to mention
+these people when you’re given credit for the success of the chapter.
+Finding potential members System administrators have a wide range of
+interests; there’s no one place to go where you can contact all of
+your potential attendees. That being said, the best way to spread
+knowledge of your new chapter is by word of mouth, but to do that, you
+need an initial group of people to do the talking. That’s where LOPSA
+can help.
+
+Contact locals@lopsa.org and express your interest in starting a
+chapter. You’ll receive a contact on the LOPSA Board of Directors who
+will help shepherd you through the process. One of the steps is
+setting up a mailing list on the LOPSA server that will give your
+potential members a forum to talk and discuss.
+
+The best initial source of potential members is the lopsa-discuss
+list. This non-technical mailing list has the most highest
+subscription count of all LOPSA lists, and almost certainly has people
+in your area subscribed. Submitting a message to this list is easy and
+will reach a lot folks who will be interested in helping your chapter
+get off the ground.
+
+Other sources can be found throughout the Internet wherever
+administrators congregate. One of the popular system administrator
+hangouts is on Reddit, at /r/sysadmin. This forum has thousands of
+system administrators visit it daily, and announcing the formation of
+a new LOPSA chapter in a certain city will definitely see a lot of
+eyes.
+
+Social media is a powerful tool that can be used to spread word of new
+events. Twitter, Facebook, LinkedIn and so on. Posting with the
+hashtag #sysadmin gathers a lot of interest, and asking someone very
+occasionally to retweet in order to help spread a message isn’t
+usually looked down upon, so long as the message is on target and for
+the right reasons. Also watch for geographic-specific groups to join
+and take part in.
+
+I’ve found that in some communities, Craigslist is an excellent source
+of potential members. There is usually an “events calendar” specific
+to the area that you want to meet in, so make sure to check this out.
+
+Interestingly, the communities that spring up around meeting
+announcement sites can yield a vast supply of potential
+attendees. MeetUp has millions of users, and whenever a new event is
+scheduled, people in the area interested in those topics receive a
+notice. Don’t forget to take advantage of this.
+
+Also check to see what local forums are devoted to the city where you
+want to start your chapter – technical-types hang out on these as
+well, and your post will probably not be treated as noise.
+
+There have been multiple chapters started by system administrators
+that came together to celebrate “System Administrator Appreciation
+Day”, which falls on the last Friday in July. These celebrations took
+place in a local pub or restaurant, and attendees had the option of
+signing up for notification on the soon-to-be forming LOPSA
+chapter. The attendees at the parties were found using the above
+methods.
+
+Lastly, there’s good old legwork. Lots of community coffee shops,
+libraries, and grocery stores have bulletin boards and will allow you
+to post a flyer. Put “sysadmin” in big letters at the top to catch the
+eye of anyone who would recognize that word. Make sure the flyer
+contains the URL to your webpage (and maybe add a QR code which points
+there).
+
+As you probably know, the crowd on Internet forums is not necessarily
+polite, so make sure to lurk and get a feel for how the inhabitants
+respond.  Follow the posting rules, and be polite and professional,
+because as an organizer, you are representing LOPSA with your post.
+
+Using these techniques will help get you on your way, but don’t forget
+that the best method to spread knowledge of your chapter is word of
+mouth, so encourage everyone who comes to meetings and joins the
+mailing list to tell their friends and coworkers.
+
+## Structure of Your Chapter
+
+LOPSA Locals chapter guidelines mention that elected Chapter Officers,
+but it dictates no enforced structure. There is an included Sample
+Chapter By-Laws included in this package and on the lopsa.org website,
+but it is only a suggestion. Chapter by-laws are only necessary if the
+chapter maintains assets over a value of $500; there’s no need to
+enforce unnecessary structure.
+
+Eventually, it may be necessary or advantageous to elect officers and
+hold meetings in a more regimented way. When that time comes, the
+sample By-Laws can serve as the foundation for your chapter, or you
+may write your own, so long as they comply with the government’s
+requirement for nonprofit status.
+
+## Getting a meeting place
+
+Meetings have to be held somewhere, but the
+difference between a good meeting place and a bad one can be dramatic,
+and can materially affect the number of people who come.  Good meeting
+places generally have a few qualities:
+
+* Ease of commuting
+
+No one wants to drive to a place that’s hard to get to. Likewise, in
+big cities, if your meeting spot has no mass transit nearby, that’s
+going to make it hard for people to get to and from the meeting.
+
+* Available Seating
+
+Most of the LOPSA meetings I’ve been to have somewhere between one and
+two dozen people. For an average office, that’s actually fairly hard
+to find extra seating for, even in a large conference room.
+
+* Internet Access
+
+System Administrators like (and in many cases need) access to the
+Internet. This is less of a problem now with the widely available
+cellular APs, but decent wireless access is always appreciated.
+
+* Presentation facilities
+
+Many speakers at meetings want to show slideshows or demonstrate
+technology. Rather than having a dozen people huddled around a laptop,
+it’s far better to have a projector and screen (even if you have to
+bring it yourself, if that’s an option)
+
+* Proximity to restaurants
+
+Most of the meetings I’ve been to have an “after party” of sorts,
+where attendees with free time will grab a bite to eat and a drink. It
+helps if this is relatively close to the meeting spot, but it
+certainly isn’t a make or break condition.
+
+None of these are really necessary, but they are nice to have. I’ve
+attended a lot of meetings where the only condition met was “Available
+Seating”, and plenty of people still showed up. In the end, it’s all
+about finding a location and then actually having the meeting.
+
+So when taking the above into consideration, what types of facilities
+should we look at, and what should we avoid?
+
+Here are some good possibilities:
+
+* Libraries
+* Offices of members
+* Community centers
+* Sponsor’s facilities
+* Classroom
+
+All of these solutions have something in common: they’re free, they
+usually have decent parking, and they’re used to having groups of
+people come in and meet.
+
+When using the facilities of a sponsor or a member’s office, make sure
+to pre-arrange any security information that’s needed. In some cases,
+building security must be notified of all guests attending the
+meeting, so a registration service like EventBrite or MeetUp should be
+used so you can give the list to the guards.
+
+There are some bad solutions, though:
+
+* Hotel
+* Convention center
+* Member’s house
+* Server room
+
+Hotels and convention centers usually charge excessive rates for
+meeting spaces. Having a meeting in a member’s house means inviting a
+dozen or more strangers over, plus very few people have the kind of
+room to house a professional meeting. Meeting in a server room is a
+bad idea because it’s cold, loud, and you’re surrounded by expensive
+servers that aren’t yours.
+
+There is no rule that says a LOPSA Local chapter has to meet in the
+same place all the time, although most do. Finding a new spot every
+month is tiresome and means extra work for the organizer. I’ve found
+that sticking to the same spot, but having occasional "field trips" is
+a good way to keep people returning while staying interesting.
+
+There’s no general rule about where you can and can’t meet, but
+remember that while you’re meeting, you are representing LOPSA and
+your profession, so use your judgment and common sense about what is
+and isn’t an appropriate place.
+
+## Speakers and Meeting Topics
+
+Good meetings require good topics.
+
+Not every topic needs to be amazing, and you don’t need a famous
+speaker to have a great meeting. Good topics and good speakers go a
+long way toward making a monthly meeting into an event that draws a
+crowd.
+
+The two main ways to plan the topic for a meeting are to either
+determine the topic, then try to find a speaker who can present an
+hour and a half or two hours on that topic, or to have schedule a good
+speaker and set the meeting topic to whatever they can or want to talk
+about.
+
+There’s nothing inherently wrong with either, though they both have
+difficulties. If you set a meeting topic but can’t find a speaker,
+then there are issues. Likewise if you have a speaker who is otherwise
+amazing, but doesn’t have anything relevant to discuss.
+
+Another option is that of a roundtable discussion. If there are
+current events happening that people want to discuss, a topical
+roundtable might be just what the doctor ordered. As a bonus, you can
+record the audio and publish it as a group podcast.
+
+If you find yourself stuck for speakers, contact locals@lopsa.org and
+we will do what we can to find an appropriate speaker in your area. We
+can’t guarantee anything, of course, but we’ll work with you to make
+something happen.
+
+# Obtaining Sponsors
+
+There is absolutely no need to get sponsors for your LOPSA chapter –
+-- many chapters have run and survived for years without them, but
+having sponsors does make a few things easier.
+
+First, it’s really nice to offer refreshments at meetings. Paying for
+these yourself and/or passing the basket works, but you don’t want to
+make a habit of it. Having a sponsor take care of refreshments
+relieves you of the financial bourdon, and costs you only whatever you
+negotiate -- in many cases, a brief mention at the beginning of the
+chapter meeting, or maybe a sign next to the pizza boxes.
+
+The best potential sponsors for a LOPSA chapter are those companies
+that provide services that are of interest to system
+administrators. In some cases, local co-location facilities or
+electronics stores may be interested, but you don’t get a lot of
+interest locally, don’t forget that there are a lot of potential
+businesses on the Internet, as well.
+
+If you solicit a local establishment for sponsorship, make sure to
+wear business casual dress, and ask to speak to the manager on
+duty. Introduce yourself and explain your purpose while handing the
+manager a glossy pamphlet, such as the one included in the Local
+Chapter Startup Kit. Make sure to politely answer any questions that
+they have, and if you find yourself unable to, offer to refer them to
+the member of the Board of Directors who is shepherding your chapter’s
+startup. Respect any signs prohibiting solicitation (and call
+instead).
+
+When reaching out to an online company, direct your inquiries to the
+marketing department (most companies list their marketing department
+contact information on their webpage somewhere). Again, introduce
+yourself as a representative of the <your city> chapter of LOPSA, the
+professional association for system administrators. Explain that you
+are seeking sponsors for refreshments during meetings (or whatever it
+is that you are seeking sponsorship for).
+
+Presumably, the company will offer to either pay for the refreshments
+directly, reimburse you for the refreshments, or offer to cut the
+chapter a check for a certain amount. While all of those will work,
+the last one requires a bit more work from you, as you need to have a
+bank account to deposit the check into.
+
+A local chapter is permitted to have a checking account and to keep
+money in it for the furthering of its goals, but if the amount reaches
+$500, then the chapter does need by-laws, as explained above.
+
+## Running a Chapter
+
+Now that your chapter has members, a structure, a meeting place,
+speakers, and possibly a sponsor or two, we need to get down to the
+business of operating it and keeping people returning. Running the
+meeting doesn’t need to be a big production (in fact, most people
+generally prefer simple over elaborate), but it does need to be
+interesting.  The format of your meetings Most Local LOPSA meetings
+begin at around 6pm and run through 9pm. Depending on your locale, the
+starting time of the meeting may need to shift later. Particularly in
+metropolitan areas, a staring time of 6:30 or 7pm isn’t unheard
+of. Here’s a typical meeting schedule:
+
+		5:30pm Organizers & refreshments arrive 6:00pm
+		Informal mingling and meet & greet w/ speaker 6:30pm
+		Meeting opens with greeting and chapter business
+		6:45pm Speaker is introduced 7:45pm Questions 8:00pm
+		Organizer thanks speaker, informal mingling / clean up
+		8:30pm Everyone goes home or adjourns to a local
+		hangout
+
+Included with this guide should be a checklist that can be printed out
+to assist the organizer to remember what happens when. It is also
+useful for the chapter secretary when recording minutes.  Your First
+Meeting The first meeting of a chapter is a little different. The most
+important difference is that almost no one at the meeting will be
+familiar with LOPSA. This is their introduction to our organization,
+so it behooves the organizer to talk a bit about the organization and
+its goals. If you need advice, the best person to speak to would be
+the Board of Directors member assigned to help your chapter begin.
+
+When it comes to finding a topic and speaker for the first meeting, it
+helps to start very strong. Look for someone who is well-known in the
+community and can talk about something general enough that it will
+attract administrators across the board, but still be interesting.
+Retaining members The easiest way to retain members is to get people
+involved. It’s a simple psychological strategy – get someone to invest
+enough time in something and they mentally assign it a higher value
+than they would otherwise. For this reason, all of your chapter
+members should at least be approached personally to see if they want
+to contribute to some aspect of running the chapter, whether it’s
+finding new sponsors, speakers, or whatever.
+
+The other way to retain members is harder, but just as rewarding, and
+that’s to continually provide a quality experience for people
+attending your meetings. This means constantly improving the
+meeting. Don’t be content with a decent meeting – improve it until
+it’s “good”, then shoot for great. Use the help that your fellow
+chapter members offer, even if it’s just good advice.
+
+Don’t worry about failing if you try new things.  Worry about failing
+to try new things.
