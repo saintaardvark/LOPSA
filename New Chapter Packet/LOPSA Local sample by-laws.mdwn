@@ -1,0 +1,153 @@
+﻿# <Your Chapter Name>
+
+# LOPSA Chapter By-Laws
+
+## Article 1. Name
+
+The name of this local chapter of the League of Professional System
+Administrators (LOPSA) shall be <Your Chapter Name>, herein referred
+to as the "Chapter".
+
+## Article 2. Purpose
+
+The Chapter will serve as a local presence for LOPSA, and will carry
+on the goals and programs of LOPSA at the local level.
+
+This chapter is dedicated furthering the purposes of the international
+LOPSA organization, through providing a local community for system
+administrators in the <your geographical region> area.
+
+These purposes will be accomplished through the education,
+development, and recognition of system administrators, as well as
+contribution to and/or promotion of industry standards and education,
+and published media.
+
+<Insert any specific goals you have for your chapter here>
+
+## Article 3. Membership
+
+Membership is open to anyone interested in the practice of System
+Administration and who agrees to abide by the requirements of these
+By-Laws.
+
+Membership in the Chapter is <price of membership or "free">. Any such
+dues will be paid annually to the Secretary-Treasurer.
+
+Membership in LOPSA is strongly encouraged, but <is not|is> required.
+
+In order to retain the <Your Chapter Name> charter from the
+international LOPSA organization, at least six (6) members of the
+Chapter must be LOPSA members in good standing.
+
+## Article 4. Officers
+
+The Officers of the Chapter shall be: (a) the President, (b) the
+Vice-President, (c) the Secretary-Treasurer. These Officers shall
+perform those duties prescribed by these By-Laws and must be members
+of LOPSA in good standing. These Officers will comprise the Executive
+Committee. All officers are elected for a term of one (1) year, and
+may be re-elected.
+
+The Officers’ duties are as follows:
+
+### (a) The President
+
+The President shall preside over all general meetings and
+Executive Committee meetings, enforce the By-Laws of this Chapter,
+report to the President of LOPSA (or to the liaison assigned to the
+Chapter by the LOPSA Board of Directors), and have general supervision
+over the affairs of this Chapter.
+
+### (b) The Vice-President
+
+The Vice-President shall perform all duties of the President in the
+President’s absence, and assume the office of President, should that
+office become vacant. The Vice-President is to send regular monthly
+reports on the chapter status to the LOPSA Board of Directors (or to
+the liaison assigned to the Chapter) as well as to the individual in
+LOPSA responsible for the creation of the newsletter.
+
+### (c) The Secretary-Treasurer
+
+The Secretary-Treasurer shall ensure that all financial books and
+records of the Chapter are maintained and report the status of such at
+each meeting, ensure all debts against the Chapter are paid in a
+timely manner, record meetings of minutes, and keep a roll of members.
+
+## Article 5. Elections
+
+Elections of the Officers shall be conducted during the regularly
+scheduled <May or your preferred month> meeting, and the officers will
+serve from <June> until the following <May>.
+
+Nominations will be presented to the membership of the Chapter during
+<April>. A member may nominate him or herself.
+
+All Chapter members in good standing are eligible to vote. A general
+meeting quorum is <10> members or one-half the membership, whichever
+is fewer.  Members must be present to vote.
+
+In the event that the Vice-President or Secretary-Treasurer is unable
+to maintain his or her position for the extent of their term, the
+Executive Committee shall appoint an eligible member to serve in that
+position for the remainder of the term.
+
+The maximum number of sequential terms allowed is <2 (or possibly,
+"There are no term limits)>.
+
+## Article 6. Removal of an Officer
+
+Any officer may be removed by a referendum. The referendum must be
+presented to the Executive Committee in writing or through e-mail.
+The Executive Committee will notify the membership of the Chapter of
+the referendum. The referendum will be considered during the first
+regular or special meeting at which a quorum is present and which is
+at least 10 days following the notification.
+
+A simple majority vote (at least 51%) is required to remove an
+Officer. An Officer so removed shall not be eligible to fill any
+vacancy on the Executive Committee during the remainder of the current
+term, but shall be eligible to be nominated for future Officer
+positions.
+
+## Article 7. Meetings
+
+This Chapter shall meet monthly at a place and time determined by the
+Executive Committee. Special meetings may be called by majority vote
+of the Executive Committee, so long as the membership of the Chapter
+is notified at least 10 days prior to the proposed special meeting.
+
+All meeting minutes will be available on the chapter website within a
+reasonable time after a meeting. Meeting minutes will include details
+on the next chapter meeting. These details will include (but are not
+limited to): date, time, location, and purpose of the next meeting.
+
+## Article 8. Committees
+
+The Executive Committee may form various committees for the purposes
+of encouraging and organizing the varied activities of the
+Chapter. Each committee leader shall keep regular records of its
+proceedings and report the same to the Chapter at regular meetings.
+
+## Article 9. Amendments to By-Laws
+
+Any member of the Chapter who is also a member of LOPSA may propose
+amendments to these By-Laws. Amendments must be presented to the
+Executive Committee in writing or through email. The Executive
+Committee will notify the membership of the chapter of the proposed
+amendment, and the amendment will be considered during the first
+regular or special meeting at which a quorum is present and which is
+at least 10 days following the notification.
+
+The adoption of a proposed amendment shall require the affirmative
+vote of at least two-thirds of all voting members.
+
+## Article 10. Dissolution
+
+If the Chapter should become dissolved, no part of the funds or
+property shall be distributed to or among the members.
+
+After payment of all indebtedness of the Chapter, its surplus and
+properties will be forfeited to LOPSA via the LOPSA
+Treasurer-Secretary.
+
