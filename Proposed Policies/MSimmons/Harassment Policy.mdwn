@@ -1,0 +1,115 @@
+﻿# Policy Statement
+
+This document defines the harassment policy of the League of
+Professional System Administrators (LOPSA).
+
+LOPSA is committed to advancing the practice of system administration,
+to supporting, recognizing, educating, and encouraging its
+practitioners, and to serving the public through education and
+outreach on issues related to system administration.
+
+Harassment and discrimination are inherently incompatible with those
+core values and goals, and their use by or against a member of this
+organization shall not be tolerated.
+
+All members have a right to exist in a professional environment free
+from discrimination and harassing conduct, including sexual
+harassment. Harassment on the basis of a member’s *race, color, creed,
+ancestry, national origin, age, disability, sex, arrest or conviction
+record, marital status, sexual orientation, membership in the
+military, or the use or nonuse of lawful products away from a
+professional setting is expressly prohibited under this policy.*
+
+This policy will be presented to all current members and to all future
+members as part of the new member package. All LOPSA Locals chapters
+will also be held to these standards, as will all events organized
+under the LOPSA banner.
+
+## Definitions
+
+In general, harassment means persistent and unwelcome conduct or
+actions on any of the bases emphasized above. Sexual harassment is one
+type of harassment and includes unwelcome sexual advances, unwelcome
+physical contact of a sexual nature, or unwelcome verbal or physical
+conduct of a sexual nature.
+
+*Unwelcome verbal or physical conduct of a sexual nature includes, but
+ is not limited to*
+
+* The repeated making of unsolicited, inappropriate gestures or
+* comments; The display of offensive sexually graphic materials not
+* necessary for our work;
+
+*Harassment on any basis (race, sex, age, disability, etc) exists
+ whenever*
+
+* Submission to harassing conduct is made, either explicitly or
+  implicitly, a term or condition of an individual’s employment.
+
+* Submission to or rejection of such conduct is used as the basis for
+  an employment decision affecting an individual.
+
+* The conduct interferes with an employee’s work or creates an
+  intimidating, hostile, or offensive work environment
+
+## Recognizing Harassment
+
+Harassment may be subtle, manipulative, and is not always evident. It
+does not refer to occasional compliments of a socially acceptable
+nature. It refers to behavior that is not welcome and is personally
+offensive. All forms of gender harassment are covered. Men can be
+sexually harassed; men can harass men; women can harass women.
+
+Offenders can be members or non-members, individuals in positions of
+leadership, or event organizers. No one has the right to make someone
+else feel uncomfortable.
+
+## Some Examples
+
+### Verbal:
+
+Jokes, insults and innuendoes (based on race, sex, age, disability,
+etc), degrading sexual remarks, referring to someone as a stud, hunk,
+or babe; whistling; cat calls; comments on a person’s body or sex
+life, or pressures for sexual favors.
+
+## Non-Verbal:
+
+Gestures, staring, touching, hugging, patting, blocking a person’s
+movement, standing too close, brushing against a person’s body, or
+display of sexually suggestive or degrading pictures, racist or other
+derogatory cartoons or drawings.
+
+## Grievance Procedure
+
+Any member who believes he or she is being harassed, or any member who
+becomes aware of harassment should promptly notify an authority figure
+appropriate for the medium that the harassment occurred in.
+
+For example, at a conference, a conference organizer should
+immediately be made aware, or a meeting organizer at a LOPSA Local. If
+the authority figure is the harasser, or the member feels
+uncomfortable discussing the situation with them, then the LOPSA Board
+of Directors should be contacted at board@lopsa.org.
+
+Upon notification of a harassment complaint, a confidential and
+impartial investigation will be promptly commenced and will include
+direct interviews with involved parties and where necessary, with
+members who may be witnesses or have knowledge of matters relating to
+the complaint. The parties of the complaint will be notified of the
+findings and their options.
+
+## Non-retaliation
+
+This policy also expressly prohibits retaliation of any kind against
+any member bringing a complaint or assisting in the investigation of a
+complaint. Such members may not be adversely affected in any manner
+related to their membership.
+
+## Disciplinary Action
+
+LOPSA views harassment and retaliation to be among the most serious
+breaches of professional behavior. Consequently, appropriate
+disciplinary or corrective action, ranging from a warning to a
+revocation of membership and a ban from LOPSA-organized activities
+both online and in person, can be expected.
