@@ -405,7 +405,7 @@ we will do what we can to find an appropriate speaker in your area. We
 can’t guarantee anything, of course, but we’ll work with you to make
 something happen.
 
-# Obtaining Sponsors
+## Obtaining Sponsors
 
 There is absolutely no need to get sponsors for your LOPSA chapter –
 -- many chapters have run and survived for years without them, but
@@ -466,18 +466,21 @@ starting time of the meeting may need to shift later. Particularly in
 metropolitan areas, a staring time of 6:30 or 7pm isn’t unheard
 of. Here’s a typical meeting schedule:
 
-		5:30pm Organizers & refreshments arrive 6:00pm
-		Informal mingling and meet & greet w/ speaker 6:30pm
-		Meeting opens with greeting and chapter business
-		6:45pm Speaker is introduced 7:45pm Questions 8:00pm
-		Organizer thanks speaker, informal mingling / clean up
-		8:30pm Everyone goes home or adjourns to a local
-		hangout
+* 5:30pm Organizers & refreshments arrive
+* 6:00pm Informal mingling and meet & greet w/ speaker
+* 6:30pm Meeting opens with greeting and chapter business
+* 6:45pm Speaker is introduced
+* 7:45pm Questions
+* 8:00pm Organizer thanks speaker, informal mingling / clean up
+* 8:30pm Everyone goes home or adjourns to a local hangout
 
 Included with this guide should be a checklist that can be printed out
 to assist the organizer to remember what happens when. It is also
-useful for the chapter secretary when recording minutes.  Your First
-Meeting The first meeting of a chapter is a little different. The most
+useful for the chapter secretary when recording minutes.
+
+## Your First Meeting
+
+The first meeting of a chapter is a little different. The most
 important difference is that almost no one at the meeting will be
 familiar with LOPSA. This is their introduction to our organization,
 so it behooves the organizer to talk a bit about the organization and
@@ -488,13 +491,16 @@ When it comes to finding a topic and speaker for the first meeting, it
 helps to start very strong. Look for someone who is well-known in the
 community and can talk about something general enough that it will
 attract administrators across the board, but still be interesting.
-Retaining members The easiest way to retain members is to get people
-involved. It’s a simple psychological strategy – get someone to invest
-enough time in something and they mentally assign it a higher value
-than they would otherwise. For this reason, all of your chapter
-members should at least be approached personally to see if they want
-to contribute to some aspect of running the chapter, whether it’s
-finding new sponsors, speakers, or whatever.
+
+## Retaining members
+
+The easiest way to retain members is to get people involved. It’s a
+simple psychological strategy – get someone to invest enough time in
+something and they mentally assign it a higher value than they would
+otherwise. For this reason, all of your chapter members should at
+least be approached personally to see if they want to contribute to
+some aspect of running the chapter, whether it’s finding new sponsors,
+speakers, or whatever.
 
 The other way to retain members is harder, but just as rewarding, and
 that’s to continually provide a quality experience for people
@@ -503,5 +509,6 @@ meeting. Don’t be content with a decent meeting – improve it until
 it’s “good”, then shoot for great. Use the help that your fellow
 chapter members offer, even if it’s just good advice.
 
-Don’t worry about failing if you try new things.  Worry about failing
-to try new things.
+Don’t worry about failing *if* you try new things.
+
+Worry about failing *to* try new things.
