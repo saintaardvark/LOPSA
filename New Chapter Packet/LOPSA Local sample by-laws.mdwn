@@ -1,11 +1,11 @@
-﻿# <Your Chapter Name>
+﻿# [Your Chapter Name]
 
 # LOPSA Chapter By-Laws
 
 ## Article 1. Name
 
 The name of this local chapter of the League of Professional System
-Administrators (LOPSA) shall be <Your Chapter Name>, herein referred
+Administrators (LOPSA) shall be [Your Chapter Name], herein referred
 to as the "Chapter".
 
 ## Article 2. Purpose
@@ -15,14 +15,14 @@ on the goals and programs of LOPSA at the local level.
 
 This chapter is dedicated furthering the purposes of the international
 LOPSA organization, through providing a local community for system
-administrators in the <your geographical region> area.
+administrators in the [your geographical region] area.
 
 These purposes will be accomplished through the education,
 development, and recognition of system administrators, as well as
 contribution to and/or promotion of industry standards and education,
 and published media.
 
-<Insert any specific goals you have for your chapter here>
+[Insert any specific goals you have for your chapter here]
 
 ## Article 3. Membership
 
@@ -30,12 +30,12 @@ Membership is open to anyone interested in the practice of System
 Administration and who agrees to abide by the requirements of these
 By-Laws.
 
-Membership in the Chapter is <price of membership or "free">. Any such
+Membership in the Chapter is [price of membership or "free"]. Any such
 dues will be paid annually to the Secretary-Treasurer.
 
-Membership in LOPSA is strongly encouraged, but <is not|is> required.
+Membership in LOPSA is strongly encouraged, but [is not|is] required.
 
-In order to retain the <Your Chapter Name> charter from the
+In order to retain the [Your Chapter Name] charter from the
 international LOPSA organization, at least six (6) members of the
 Chapter must be LOPSA members in good standing.
 
@@ -77,14 +77,14 @@ timely manner, record meetings of minutes, and keep a roll of members.
 ## Article 5. Elections
 
 Elections of the Officers shall be conducted during the regularly
-scheduled <May or your preferred month> meeting, and the officers will
-serve from <June> until the following <May>.
+scheduled [May or your preferred month] meeting, and the officers will
+serve from [June] until the following [May].
 
 Nominations will be presented to the membership of the Chapter during
-<April>. A member may nominate him or herself.
+[April]. A member may nominate him or herself.
 
 All Chapter members in good standing are eligible to vote. A general
-meeting quorum is <10> members or one-half the membership, whichever
+meeting quorum is [10] members or one-half the membership, whichever
 is fewer.  Members must be present to vote.
 
 In the event that the Vice-President or Secretary-Treasurer is unable
@@ -92,8 +92,8 @@ to maintain his or her position for the extent of their term, the
 Executive Committee shall appoint an eligible member to serve in that
 position for the remainder of the term.
 
-The maximum number of sequential terms allowed is <2 (or possibly,
-"There are no term limits)>.
+The maximum number of sequential terms allowed is [2 (or possibly,
+"There are no term limits)].
 
 ## Article 6. Removal of an Officer
 
